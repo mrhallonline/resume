@@ -42,23 +42,27 @@ h1 {
     font-size: 35px;
 }
 
-.position {
+.position,.company,.location,.date-worked {
     float: left;
+    padding-right: 5px;
 }
 
 .company {
-    float: left;
+    
+    
 }
 
 .location {
-    float: left;
+    
 }
 
-.location {
-    float: left;
-}
+
 
 .date-worked {
-    float: left;
+    
 }
 
+
+.header {
+    font-weight: 600;
+}
