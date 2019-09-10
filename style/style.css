@@ -43,9 +43,22 @@ h1 {
 }
 
 .position {
-    float: left
+    float: left;
 }
 
 .company {
-    float: left
+    float: left;
 }
+
+.location {
+    float: left;
+}
+
+.location {
+    float: left;
+}
+
+.date-worked {
+    float: left;
+}
+
